@@ -1,0 +1,108 @@
+/* styling traits for all web pages including font, size, color, and alignment*/
+
+.h1
+{
+    text-align: center;
+    font-size: 55px;
+    color: MistyRose;
+    font-family: Zapf-Chancery, cursive;
+}
+
+.img1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.p1
+{
+    font-family: Zapf-Chancery;
+    color: MistyRose;
+    font-size: 15px;
+}
+
+.h2
+{
+    font-family: Zapf-Chancery;
+    color: MistyRose;
+    font-size: 22px;
+}
+
+.h3
+{
+    text-align: center;
+    font-family: Zapf-Chancery, cursive;
+    color: SeaShell;
+    font-size: 55px;
+}
+
+.h4
+{
+    font-family: Zapf-Chancery;
+    color: SeaShell;
+    font-size: 21px;
+}
+
+.p2
+{
+    font-family: Zapf-Chancery;
+    color: SeaShell;
+    font-size: 22px;
+}
+
+.p3
+{
+    font-family: Zapf-Chancery;
+    color: SeaShell;
+    font-size: 22px;
+}
+
+.h7
+{
+    text-align: center;
+    font-family: Zapf-Chancery, cursive;
+    color: FloralWhite;
+    font-size: 55px;
+}
+
+.h8
+{
+    font-family: Zapf-Chancery;
+    color: FloralWhite;
+    font-size: 22px;
+}
+
+.p6
+{
+    font-family: Zapf-Chancery;
+    color: FloralWhite;
+    font-size: 22px;
+}
+
+.p4
+{
+    font-family: Zapf-Chancery;
+    color: MistyRose;
+    font-size: 15px;
+}
+
+.p5
+{
+    font-family: Zapf-Chancery;
+    color: SeaShell;
+    font-size: 15px;
+}
+
+.p9
+{
+    font-family: Zapf-Chancery, cursive;
+    font-size: 15px;
+    color: MistyRose;
+}
+
+.btn btn-outline-dark
+{
+    color: Pink;
+}
