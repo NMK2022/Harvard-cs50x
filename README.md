@@ -8,7 +8,7 @@ and population data from population.un.org I analyzed the worldwide mortality an
 was then presented visually in a line graph.
 
 
-
+![](Images/cs50ide.png)
 
 ## Staring the Project
 
@@ -52,7 +52,7 @@ https://stackoverflow.com/questions/tagged/cs50
 
 
 ### Acknowledgments
-Thank you Harvardx, edx, David Malan, Doug Lloyd, Brian Yu, and all the other members who made this course free. 
+Thank you Harvardx, edx, David Malan, Doug Lloyd, Brian Yu, and all the other members who made this course possible. 
 
 The skills learned in this course led to the creation of my own website: 
 http://defystatistics.com 
