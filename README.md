@@ -8,7 +8,7 @@ and population data from population.un.org I analyzed the worldwide mortality an
 was then presented visually in a line graph.
 
 
-![](Images/Coding GIF-source.GIF)
+![](https://media.giphy.com/media/hSpg9q4Jey0UO19Yf1/giphy.gif)
 
 ## Staring the Project
 
