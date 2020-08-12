@@ -1,14 +1,11 @@
 # Harvard-This is CS50x
-Select projects from edx Harvard cs50 course (Introduction to Computer Science)
-
-## Introduction
-
-This project was created as a response to the Coronavirus pandemic. Utilizing mortality data from ourworldindata.org 
-and population data from population.un.org I analyzed the worldwide mortality and testing rates of Covid-19. This data
-was then presented visually in a line graph.
 
 
 ![](https://media.giphy.com/media/hSpg9q4Jey0UO19Yf1/giphy.gif)
+
+## Introduction
+Select projects from edx Harvard cs50 course (Introduction to Computer Science)
+
 
 ## Staring the Project
 
@@ -21,7 +18,6 @@ begin lecture 0 week 0.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Further Resources](#further-resources)
-* [Status](#status)
 * [Acknowledgments](#acknowledgments)
 
 
@@ -40,7 +36,9 @@ This project was created with:
 2. Enroll in the Harvardx This is CS50x course on the website: https://www.edx.org/course/cs50s-introduction-to-computer-science
 3. Begin the course making sure to read through all of the documentation and resources for help.
 
+
 ![](Images/cs50ide.png)
+
 
 ### Further Resources
 Below are links to websites that will prove helpful when taking this course:
