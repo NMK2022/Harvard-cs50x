@@ -8,7 +8,7 @@ and population data from population.un.org I analyzed the worldwide mortality an
 was then presented visually in a line graph.
 
 
-![](Images/cs50ide.png)
+![](Images/Coding GIF-source.GIF)
 
 ## Staring the Project
 
@@ -40,6 +40,7 @@ This project was created with:
 2. Enroll in the Harvardx This is CS50x course on the website: https://www.edx.org/course/cs50s-introduction-to-computer-science
 3. Begin the course making sure to read through all of the documentation and resources for help.
 
+![](Images/cs50ide.png)
 
 ### Further Resources
 Below are links to websites that will prove helpful when taking this course:
